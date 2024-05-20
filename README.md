@@ -1,7 +1,7 @@
-# POWER-BI-projects
+# POWER BI-projects
 # British Airlines Review Analysis #Case Study
 
-INTRODUCTION
+# INTRODUCTION
 This dataset contains feedback from passengers who have traveled 
 with British Airways on various routes and seat types. Each review 
 includes information such as the date of the review, the country of 
@@ -12,20 +12,21 @@ insights into customer satisfaction levels, identify common issues
 faced by passengers, and recommend improvements to enhance the 
 overall flight experience with British Airways.
 
-PROBLEM STATEMENT
+# PROBLEM STATEMENT
 British Airways seeks to identify and address 
 recurring issues highlighted in customer reviews 
 to enhance overall service quality and customer 
 satisfaction
 
-OBJECTIVE
+# OBJECTIVE
 To analyze British Airways customer reviews to 
 identify patterns, extract insights, and 
 recommend actionable strategies to improve 
 overall customer satisfaction and loyalty
 .
 
-DATA DICTIONARY
+# DATA DICTIONARY
+
 Reviews: Textual descriptions of customer reviews.
 Date: Date of the review.
 Country: Country of the reviewer.
